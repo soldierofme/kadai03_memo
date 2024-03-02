@@ -13,11 +13,7 @@ main{
     border-bottom:1px solid #ccc;
     position:relative;
 }
-footer{
-    background-color: #fff;
-    border-bottom:1px solid #ccc;
-    text-align: center;
-}
+
 p{
     font-size:200%;
     text-align: center;
